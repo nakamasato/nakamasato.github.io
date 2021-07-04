@@ -1,6 +1,6 @@
 ## Welcome to Masato's Page
 
-Naka Masato's a software engineer. He started his career as a machine learning engineer in Bytedance, and started working on infrastructure and cloud-native application development when he joined beBit.
+Naka Masato is a software engineer. He started his career as a machine learning engineer in Bytedance in 2016, and started working on infrastructure and cloud-native application development when he joined beBit in 2018. His interests include scalable system architecture, infrastructure, streaming process, and machine learning.
 
 ## Github Projects
 
