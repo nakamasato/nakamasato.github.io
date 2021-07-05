@@ -15,6 +15,11 @@ Naka Masato is a software engineer. He started his career as a machine learning 
 - AWS
   - [aws_billing_slack_notification](https://github.com/nakamasato/aws_billing_slack_notification): Simple codes to deploy lambda with cloudwatch events to get slack notification for AWS billing
 
+## Posts
+
+- [Medium](https://nakamasato.medium.com) (English)
+- [Qiita](https://qiita.com/nakamasato) (日本語)
+
 ## Fun pages
 
 My colleagues' pages:
