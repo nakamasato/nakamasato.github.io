@@ -18,6 +18,9 @@ Naka Masato is a software engineer. He started his career as a machine learning 
   - terraform (to be made public): Terraform codes to manage cloud resources for private projects
 - AWS
   - [aws_billing_slack_notification](https://github.com/nakamasato/aws_billing_slack_notification): Simple codes to deploy lambda with cloudwatch events to get slack notification for AWS billing
+- Python
+  - [python-sameple](https://github.com/nakamasato/python-sample): Python sample application with tests
+  - [flask-test](https://github.com/nakamasato/flask-test): Flask sample application
 
 ## Posts
 
