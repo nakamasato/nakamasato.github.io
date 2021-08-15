@@ -19,7 +19,7 @@ Naka Masato is a software engineer. He started his career as a machine learning 
 - AWS
   - [aws_billing_slack_notification](https://github.com/nakamasato/aws_billing_slack_notification): Simple codes to deploy lambda with cloudwatch events to get slack notification for AWS billing
 - Python
-  - [python-sameple](https://github.com/nakamasato/python-sample): Python sample application with tests
+  - [python-sample](https://github.com/nakamasato/python-sample): Python sample application with tests
   - [flask-test](https://github.com/nakamasato/flask-test): Flask sample application
 
 ## Posts
