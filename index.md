@@ -1,14 +1,15 @@
-## Welcome to Masato's Page
+## Love what you do and do what you love
 
 Naka Masato is a software engineer. He started his career as a machine learning engineer in Bytedance in 2016, and started working on infrastructure and cloud-native application development when he joined beBit in 2018. His interests include scalable system architecture, infrastructure, streaming process, and machine learning.
 
-## Github Projects
+## GitHub Projects
 
 - Kubernetes
-  - [kubernetes-training](https://github.com/nakamasato/kubernetes-training): Practice Kubernetes features with hands-on, which includes autoscaling, monitoring and logging, operator pattern, cluster setup, and so on.
+  - [kubernetes-training](https://github.com/nakamasato/kubernetes-training): Practice Kubernetes features with hands-on, including autoscaling, monitoring, logging, operator pattern, cluster setup, and so on.
   - [helm-charts-repo](https://github.com/nakamasato/helm-charts-repo): Practice repo for helm charts (still only contains hello-world)
-  - [kubernetes-basics-2021](https://github.com/nakamasato/kubernetes-basics-2021): Example codes for Kubernetes basics cources in Udemy
+  - [kubernetes-basics](https://github.com/nakamasato/kubernetes-basics): Example codes for Kubernetes basics Udemy course
   - Kubernetes Operator Practice:
+    - [mysql-operator](https://github.com/nakamasato/mysql-operator): Kubernetes operator to manage MySQL users for existing MySQL clusters.
     - [memcached-operator](https://github.com/nakamasato/memcached-operator): practice operator created with operator-sdk (go-based)
     - [memcached-operator-with-ansible](https://github.com/nakamasato/memcached-operator-with-ansible): practice operator created with operator-sdk (ansible-based)
     - [nginx-operator](https://github.com/nakamasato/nginx-operator): practice operator created with operator-sdk (helm-based)
@@ -20,7 +21,8 @@ Naka Masato is a software engineer. He started his career as a machine learning 
   - [aws_billing_slack_notification](https://github.com/nakamasato/aws_billing_slack_notification): Simple codes to deploy lambda with cloudwatch events to get slack notification for AWS billing
 - Python
   - [python-sample](https://github.com/nakamasato/python-sample): Python sample application with tests
-  - [flask-test](https://github.com/nakamasato/flask-test): Flask sample application
+  - [flask-sample](https://github.com/nakamasato/flask-sample): Flask sample application
+  - [fastapi-sample](https://github.com/nakamasato/fastapi-sample): FastAPI sample application
 
 ## Posts
 
