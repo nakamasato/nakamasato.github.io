@@ -34,6 +34,11 @@ Naka Masato is a software engineer. He started his career as a machine learning 
 - [Certified ScrumMaster (CSM)](https://certification.scrumalliance.org/accounts/1079721-masato-naka/certifications/1229834-csm) (Issued Jun 2020, Expires Jun 2022)
 - [CERTIFIED KUBERNETES ADMINISTRATOR (CKA)](https://www.credly.com/badges/70deddcd-530b-4d2f-a03b-d422f0c27f5d) (Issued Feb 2021, Expires Feb 2024)
 
+
+## Udemy Courses
+
+- [Kubernetes入門](https://www.udemy.com/course/kubernetes-basics-2021/?referralCode=30E6E847A97EFBEC8F48) (日本語)
+
 ## Fun pages
 
 My colleagues' pages:
