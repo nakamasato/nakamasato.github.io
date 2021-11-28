@@ -9,7 +9,7 @@ Naka Masato is a software engineer. He started his career as a machine learning 
   - [helm-charts-repo](https://github.com/nakamasato/helm-charts-repo): Practice repo for helm charts (still only contains hello-world)
   - [kubernetes-basics](https://github.com/nakamasato/kubernetes-basics): Example codes for [Kubernetes入門 (Udemy Course)][udemy_kubernetes_basics]
   - Kubernetes Operator Practice:
-    - [mysql-operator](https://github.com/nakamasato/mysql-operator): Kubernetes operator to manage MySQL users for existing MySQL clusters.
+    - [mysql-operator](https://github.com/nakamasato/mysql-operator): WIP Kubernetes operator to manage MySQL users for existing MySQL clusters.
     - [memcached-operator](https://github.com/nakamasato/memcached-operator): practice operator created with operator-sdk (go-based)
     - [memcached-operator-with-ansible](https://github.com/nakamasato/memcached-operator-with-ansible): practice operator created with operator-sdk (ansible-based)
     - [nginx-operator](https://github.com/nakamasato/nginx-operator): practice operator created with operator-sdk (helm-based)
@@ -23,11 +23,17 @@ Naka Masato is a software engineer. He started his career as a machine learning 
   - [python-sample](https://github.com/nakamasato/python-sample): Python sample application with tests
   - [flask-sample](https://github.com/nakamasato/flask-sample): Flask sample application
   - [fastapi-sample](https://github.com/nakamasato/fastapi-sample): FastAPI sample application
+- Golang
+  - [go-practice](https://github.com/nakamasato/go-practice): studying Golang
 
 ## Posts
 
 - [Medium](https://nakamasato.medium.com) (English)
 - [Qiita](https://qiita.com/nakamasato) (日本語)
+
+## Slides
+
+- [SpeakerDeck](https://speakerdeck.com/nakamasato) (Mainly in Japanese)
 
 ## Certificates
 
