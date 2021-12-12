@@ -10,7 +10,7 @@ Naka Masato is a software engineer. He started his career as a machine learning 
   - [kubernetes-basics](https://github.com/nakamasato/kubernetes-basics): Example codes for [Kubernetes入門 (Udemy Course)][udemy_kubernetes_basics]
   - Kubernetes Operator Practice:
     - [mysql-operator](https://github.com/nakamasato/mysql-operator): WIP Kubernetes operator to manage MySQL users for existing MySQL clusters.
-    - [memcached-operator](https://github.com/nakamasato/memcached-operator): practice operator created with operator-sdk (go-based)
+    - [memcached-operator](https://github.com/nakamasato/memcached-operator): [Quickstart for Kubernetes operator with operator-sdk (go-based)](https://nakamasato.github.io/memcached-operator)
     - [memcached-operator-with-ansible](https://github.com/nakamasato/memcached-operator-with-ansible): practice operator created with operator-sdk (ansible-based)
     - [nginx-operator](https://github.com/nakamasato/nginx-operator): practice operator created with operator-sdk (helm-based)
 - Terraform
