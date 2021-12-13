@@ -10,9 +10,10 @@ Naka Masato is a software engineer. He started his career as a machine learning 
   - [kubernetes-basics](https://github.com/nakamasato/kubernetes-basics): Example codes for [Kubernetes入門 (Udemy Course)][udemy_kubernetes_basics]
   - Kubernetes Operator Practice:
     - [mysql-operator](https://github.com/nakamasato/mysql-operator): WIP Kubernetes operator to manage MySQL users for existing MySQL clusters.
-    - [memcached-operator](https://github.com/nakamasato/memcached-operator): [Quickstart for Kubernetes operator with operator-sdk (go-based)](https://nakamasato.github.io/memcached-operator)
-    - [memcached-operator-with-ansible](https://github.com/nakamasato/memcached-operator-with-ansible): practice operator created with operator-sdk (ansible-based)
-    - [nginx-operator](https://github.com/nakamasato/nginx-operator): practice operator created with operator-sdk (helm-based)
+    - [memcached-operator](https://github.com/nakamasato/memcached-operator): [Quickstart for Kubernetes operator](https://nakamasato.github.io/memcached-operator) with [operator-sdk (go-based)](https://sdk.operatorframework.io/docs/building-operators/golang/quickstart/)
+    - [memcached-operator-with-ansible](https://github.com/nakamasato/memcached-operator-with-ansible): practice operator created with [operator-sdk (ansible-based)](https://sdk.operatorframework.io/docs/building-operators/ansible/quickstart/)
+    - [nginx-operator](https://github.com/nakamasato/nginx-operator): practice operator created with [operator-sdk (helm-based)](https://sdk.operatorframework.io/docs/building-operators/helm/quickstart/)
+    - [foo-controller-kubebuilder](https://github.com/nakamasato/foo-controller-kubebuilder): Foo controller with [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
 - Terraform
   - [eks](https://github.com/nakamasato/eks): Terraform codes for setting up EKS cluster
   - [practice_terraforming](https://github.com/nakamasato/practice_terraforming): Practice repo to understand how terraforming, a tool to import existing infrastructure into Terraform codes, works by creating a ruby gem from scratch and adding extra features that are not included in the official tool. (RubyGem: [practice_terraforming](https://rubygems.org/gems/practice_terraforming))
