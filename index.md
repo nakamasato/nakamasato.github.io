@@ -10,6 +10,7 @@ Naka Masato is a software engineer. He started his career as a machine learning 
   - [kubernetes-basics](https://github.com/nakamasato/kubernetes-basics): Example codes for [Kubernetes入門 (Udemy Course)][udemy_kubernetes_basics]
   - Kubernetes Operator Practice:
     - [mysql-operator](https://github.com/nakamasato/mysql-operator): WIP Kubernetes operator to manage MySQL users for existing MySQL clusters.
+    - [secret-mirror-operator](https://github.com/bebit/secret-mirror-operator): Kubernetes operator to copy a Secret from one Namespace to another and keep them synced.
     - [memcached-operator](https://github.com/nakamasato/memcached-operator): [Quickstart for Kubernetes operator](https://nakamasato.github.io/memcached-operator) with [operator-sdk (go-based)](https://sdk.operatorframework.io/docs/building-operators/golang/quickstart/)
     - [memcached-operator-with-ansible](https://github.com/nakamasato/memcached-operator-with-ansible): practice operator created with [operator-sdk (ansible-based)](https://sdk.operatorframework.io/docs/building-operators/ansible/quickstart/)
     - [nginx-operator](https://github.com/nakamasato/nginx-operator): practice operator created with [operator-sdk (helm-based)](https://sdk.operatorframework.io/docs/building-operators/helm/quickstart/)
@@ -25,7 +26,9 @@ Naka Masato is a software engineer. He started his career as a machine learning 
   - [flask-sample](https://github.com/nakamasato/flask-sample): Flask sample application
   - [fastapi-sample](https://github.com/nakamasato/fastapi-sample): FastAPI sample application
 - Golang
-  - [go-practice](https://github.com/nakamasato/go-practice): studying Golang
+  - [golang-training](https://github.com/nakamasato/golang-training): Studying Golang
+- Linux
+  - [linux-training]
 
 ## Posts
 
