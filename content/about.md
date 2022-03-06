@@ -1,6 +1,6 @@
 +++
 title = "About Naka Masato"
-date = "2014-04-09"
+date = "2022-03-07"
 +++
 
 ## Introduction
@@ -10,7 +10,7 @@ date = "2014-04-09"
 ## GitHub Projects
 
 ### Kubernetes
-1. [kubernetes-training](https://github.com/nakamasato/kubernetes-training): Practice Kubernetes features with hands-on, including autoscaling, monitoring, logging, operator pattern, cluster setup, and so on.
+1. [kubernetes-training](https://nakamasato.github.io/kubernetes-training): Practice Kubernetes features with hands-on, including autoscaling, monitoring, logging, operator pattern, cluster setup, and so on.
 1. [kubernetes-basics](https://github.com/nakamasato/kubernetes-basics): Example codes for [Kubernetes入門 (Udemy Course)][udemy_kubernetes_basics]
 1. Kubernetes Operator Practice:
     - [mysql-operator](https://github.com/nakamasato/mysql-operator): WIP Kubernetes operator to manage MySQL users for existing MySQL clusters.
