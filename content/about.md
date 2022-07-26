@@ -1,11 +1,11 @@
 +++
 title = "About Naka Masato"
-date = "2022-03-07"
+date = "2022-07-26"
 +++
 
 ## Introduction
 
-**Naka Masato** is a software engineer. He started his career as a machine learning engineer in ByteDance in 2016, and started working on infrastructure and cloud-native application development when he joined beBit in 2018. His interests include scalable system architecture, infrastructure, stream data processing, and machine learning.
+**Naka Masato** is a software engineer. He started his career as a machine learning engineer in [ByteDance](https://www.bytedance.com/) in 2016, and started working on infrastructure and cloud-native application development when he joined [beBit](https://www.bebit.co.jp/) in 2018. In 2022, he joined [Souzoh](https://souzoh.com/) as an SRE engineer. His interests include scalable system architecture, infrastructure, stream data processing, and machine learning.
 
 ## GitHub Projects
 
@@ -15,10 +15,14 @@ date = "2022-03-07"
 1. Kubernetes Operator Practice:
     - [mysql-operator](https://github.com/nakamasato/mysql-operator): WIP Kubernetes operator to manage MySQL users for existing MySQL clusters.
     - [secret-mirror-operator](https://github.com/bebit/secret-mirror-operator): Kubernetes operator to copy a Secret from one Namespace to another and keep them synced.
-    - [memcached-operator](https://github.com/nakamasato/memcached-operator): [Quickstart for Kubernetes operator](https://nakamasato.github.io/memcached-operator) with [operator-sdk (go-based)](https://sdk.operatorframework.io/docs/building-operators/golang/quickstart/)
-    - [memcached-operator-with-ansible](https://github.com/nakamasato/memcached-operator-with-ansible): practice operator created with [operator-sdk (ansible-based)](https://sdk.operatorframework.io/docs/building-operators/ansible/quickstart/)
-    - [nginx-operator](https://github.com/nakamasato/nginx-operator): practice operator created with [operator-sdk (helm-based)](https://sdk.operatorframework.io/docs/building-operators/helm/quickstart/)
-    - [foo-controller-kubebuilder](https://github.com/nakamasato/foo-controller-kubebuilder): Foo controller with [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
+    - Study Resources:
+        - [sample-controller](https://github.com/nakamasato/sample-controller): Sample operator created in Kubernetes way
+            - documentation: [Sample Controller](https://nakamasato.github.io/sample-controller)
+        - [memcached-operator](https://github.com/nakamasato/memcached-operator): Simple operator with operator-sdk (go-based)
+            - documentation: [Quickstart for Kubernetes operator](https://nakamasato.github.io/memcached-operator)
+        - [memcached-operator-with-ansible](https://github.com/nakamasato/memcached-operator-with-ansible): practice operator created with [operator-sdk (ansible-based)](https://sdk.operatorframework.io/docs/building-operators/ansible/quickstart/)
+        - [nginx-operator](https://github.com/nakamasato/nginx-operator): practice operator created with [operator-sdk (helm-based)](https://sdk.operatorframework.io/docs/building-operators/helm/quickstart/)
+        - [foo-controller-kubebuilder](https://github.com/nakamasato/foo-controller-kubebuilder): Foo controller with [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
 
 ### Infrastructure
 
@@ -28,13 +32,13 @@ date = "2022-03-07"
 
 ### Others
 - Python
-  - [python-sample](https://github.com/nakamasato/python-sample): Python sample application with tests
-  - [flask-sample](https://github.com/nakamasato/flask-sample): Flask sample application
-  - [fastapi-sample](https://github.com/nakamasato/fastapi-sample): FastAPI sample application
-- Golang
-  - [golang-training](https://github.com/nakamasato/golang-training): Studying Golang
-- Linux
-  - [linux-training](https://github.com/nakamasato/linux-training)
+    - [python-sample](https://github.com/nakamasato/python-sample): Python sample application with tests
+    - [flask-sample](https://github.com/nakamasato/flask-sample): Flask sample application
+    - [fastapi-sample](https://github.com/nakamasato/fastapi-sample): FastAPI sample application
+- [golang-training](https://github.com/nakamasato/golang-training): Studying Golang
+- [linux-training](https://github.com/nakamasato/linux-training)
+- [nestjs-graphql-training](https://github.com/nakamasato/nest-graphql-training): Study Nestjs + GraphQL
+- [github-actions-practice](https://github.com/nakamasato/github-actions-practice): Example GitHubActions workflows
 
 ## Posts
 
