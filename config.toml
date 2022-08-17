@@ -73,3 +73,8 @@ googleAnalytics = "G-9NTB93RVPJ"
     name = "About"
     url = "about/"
     weight = 20
+
+  [[menu.main]]
+    name = "Self Learning"
+    url = "training/"
+    weight = 30
