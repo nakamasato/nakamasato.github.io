@@ -1,6 +1,6 @@
 +++
 title = "About Naka Masato"
-date = "2022-07-26"
+date = "2022-11-03"
 +++
 
 ## Introduction
@@ -57,6 +57,7 @@ date = "2022-07-26"
 ## Udemy Courses
 
 - [Kubernetes入門][udemy_kubernetes_basics] (日本語)
+- [Kubernetes Operator入門][udemy_kubernetes_operator_basics] (日本語)
 
 ## Languages
 
@@ -68,3 +69,5 @@ I also like learning foreign languages. I've studied several more languages; Kor
 
 
 [udemy_kubernetes_basics]: https://www.udemy.com/course/kubernetes-basics-2021/?referralCode=30E6E847A97EFBEC8F48
+[udemy_kubernetes_operator_basics]: https://www.udemy.com/course/kubernetes-operator-basics/?referralCode=CD7AF4436ACE9D811113
+
