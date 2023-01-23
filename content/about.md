@@ -12,17 +12,21 @@ date = "2022-11-03"
 ### Kubernetes
 1. [kubernetes-training](https://nakamasato.github.io/kubernetes-training): Practice Kubernetes features with hands-on, including autoscaling, monitoring, logging, operator pattern, cluster setup, and so on.
 1. [kubernetes-basics](https://github.com/nakamasato/kubernetes-basics): Example codes for [Kubernetes入門 (Udemy Course)][udemy_kubernetes_basics]
+1. [kubernetes-operator-basics](https://github.com/nakamasato/kubernetes-operator-basics): Example codes for [Kubernetes Operator入門 (Udemy Course)][udemy_kubernetes_operator_basics]
 1. Kubernetes Operator Practice:
-    - [mysql-operator](https://github.com/nakamasato/mysql-operator): WIP Kubernetes operator to manage MySQL users for existing MySQL clusters.
-    - [secret-mirror-operator](https://github.com/bebit/secret-mirror-operator): Kubernetes operator to copy a Secret from one Namespace to another and keep them synced.
-    - Study Resources:
-        - [sample-controller](https://github.com/nakamasato/sample-controller): Sample operator created in Kubernetes way
-            - documentation: [Sample Controller](https://nakamasato.github.io/sample-controller)
-        - [memcached-operator](https://github.com/nakamasato/memcached-operator): Simple operator with operator-sdk (go-based)
-            - documentation: [Quickstart for Kubernetes operator](https://nakamasato.github.io/memcached-operator)
-        - [memcached-operator-with-ansible](https://github.com/nakamasato/memcached-operator-with-ansible): practice operator created with [operator-sdk (ansible-based)](https://sdk.operatorframework.io/docs/building-operators/ansible/quickstart/)
-        - [nginx-operator](https://github.com/nakamasato/nginx-operator): practice operator created with [operator-sdk (helm-based)](https://sdk.operatorframework.io/docs/building-operators/helm/quickstart/)
-        - [foo-controller-kubebuilder](https://github.com/nakamasato/foo-controller-kubebuilder): Foo controller with [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
+    1. [mysql-operator](https://github.com/nakamasato/mysql-operator): WIP Kubernetes operator to manage MySQL users for existing MySQL clusters.
+    1. [secret-mirror-operator](https://github.com/bebit/secret-mirror-operator): Kubernetes operator to copy a Secret from one Namespace to another and keep them synced.
+    1. [sample-controller](https://github.com/nakamasato/sample-controller): Sample operator created in Kubernetes way
+        1. documentation: [Sample Controller](https://nakamasato.github.io/sample-controller)
+    1. [memcached-operator](https://github.com/nakamasato/memcached-operator): Simple operator with operator-sdk (go-based)
+        1. documentation: [Quickstart for Kubernetes operator](https://nakamasato.github.io/memcached-operator)
+    1. [password-operator](https://github.com/nakamasato/password-operator)
+
+    <details><summary>Others</summary>
+    1. [memcached-operator-with-ansible](https://github.com/nakamasato/memcached-operator-with-ansible): practice operator created with [operator-sdk (ansible-based)](https://sdk.operatorframework.io/docs/building-operators/ansible/quickstart/)
+    1. [nginx-operator](https://github.com/nakamasato/nginx-operator): practice operator created with [operator-sdk (helm-based)](https://sdk.operatorframework.io/docs/building-operators/helm/quickstart/)
+    1. [foo-controller-kubebuilder](https://github.com/nakamasato/foo-controller-kubebuilder): Foo controller with [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)    
+    </details>
 
 ### Infrastructure
 
