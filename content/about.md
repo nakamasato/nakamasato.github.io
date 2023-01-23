@@ -21,12 +21,9 @@ date = "2022-11-03"
     1. [memcached-operator](https://github.com/nakamasato/memcached-operator): Simple operator with operator-sdk (go-based)
         1. documentation: [Quickstart for Kubernetes operator](https://nakamasato.github.io/memcached-operator)
     1. [password-operator](https://github.com/nakamasato/password-operator)
-
-    <details><summary>Others</summary>
     1. [memcached-operator-with-ansible](https://github.com/nakamasato/memcached-operator-with-ansible): practice operator created with [operator-sdk (ansible-based)](https://sdk.operatorframework.io/docs/building-operators/ansible/quickstart/)
     1. [nginx-operator](https://github.com/nakamasato/nginx-operator): practice operator created with [operator-sdk (helm-based)](https://sdk.operatorframework.io/docs/building-operators/helm/quickstart/)
-    1. [foo-controller-kubebuilder](https://github.com/nakamasato/foo-controller-kubebuilder): Foo controller with [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)    
-    </details>
+    1. [foo-controller-kubebuilder](https://github.com/nakamasato/foo-controller-kubebuilder): Foo controller with [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
 
 ### Infrastructure
 
@@ -35,14 +32,18 @@ date = "2022-11-03"
 - terraform (to be made public): Terraform codes to manage cloud resources for private projects
 
 ### Others
-- Python
-    - [python-sample](https://github.com/nakamasato/python-sample): Python sample application with tests
-    - [flask-sample](https://github.com/nakamasato/flask-sample): Flask sample application
-    - [fastapi-sample](https://github.com/nakamasato/fastapi-sample): FastAPI sample application
-- [golang-training](https://github.com/nakamasato/golang-training): Studying Golang
-- [linux-training](https://github.com/nakamasato/linux-training)
-- [nestjs-graphql-training](https://github.com/nakamasato/nest-graphql-training): Study Nestjs + GraphQL
-- [github-actions-practice](https://github.com/nakamasato/github-actions-practice): Example GitHubActions workflows
+1. Self-Study Training Series
+    1. [golang-training](https://github.com/nakamasato/golang-training): Studying Golang
+    1. [nestjs-graphql-training](https://github.com/nakamasato/nest-graphql-training): Study Nestjs + GraphQL
+    1. [envoy-training](https://github.com/nakamasato/envoy-training)
+    1. Full list: [Self Study](training.md)
+1. Python
+    1. [python-sample](https://github.com/nakamasato/python-sample): Python sample application with tests
+    1. [flask-sample](https://github.com/nakamasato/flask-sample): Flask sample application
+    1. [fastapi-sample](https://github.com/nakamasato/fastapi-sample): FastAPI sample application
+    1. [autonote](https://github.com/nakamasato/autonote): Python Library to automate taking notes (WIP)
+1. [github-actions-practice](https://github.com/nakamasato/github-actions-practice): Example GitHub Actions workflows
+1. [Database Design and Implementation](https://github.com/nakamasato/database-design-and-implementation): SimpleDB implementation (from a book [Database Design and Implementation](https://www.amazon.co.jp/Database-Design-Implementation-Data-Centric-Applications-ebook/dp/B085DZM79S/))
 
 ## Posts
 
