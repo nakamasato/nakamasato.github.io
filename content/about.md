@@ -36,7 +36,7 @@ date = "2022-11-03"
     1. [golang-training](https://github.com/nakamasato/golang-training): Studying Golang
     1. [nestjs-graphql-training](https://github.com/nakamasato/nest-graphql-training): Study Nestjs + GraphQL
     1. [envoy-training](https://github.com/nakamasato/envoy-training)
-    1. Full list: [Self Study](training.md)
+    1. Full list: [Self Study](training)
 1. Python
     1. [python-sample](https://github.com/nakamasato/python-sample): Python sample application with tests
     1. [flask-sample](https://github.com/nakamasato/flask-sample): Flask sample application
