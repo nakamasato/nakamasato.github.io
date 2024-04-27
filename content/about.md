@@ -1,6 +1,6 @@
 +++
 title = "About Naka Masato"
-date = "2022-11-03"
+date = "2024-04-27"
 +++
 
 ## Introduction
@@ -10,6 +10,7 @@ date = "2022-11-03"
 ## GitHub Projects
 
 ### Kubernetes
+
 1. [kubernetes-training](https://nakamasato.github.io/kubernetes-training): Practice Kubernetes features with hands-on, including autoscaling, monitoring, logging, operator pattern, cluster setup, and so on.
 1. [kubernetes-basics](https://github.com/nakamasato/kubernetes-basics): Example codes for [Kubernetes入門 (Udemy Course)][udemy_kubernetes_basics]
 1. [kubernetes-operator-basics](https://github.com/nakamasato/kubernetes-operator-basics): Example codes for [Kubernetes Operator入門 (Udemy Course)][udemy_kubernetes_operator_basics]
@@ -48,8 +49,9 @@ date = "2022-11-03"
 
 ## Posts
 
-- [Medium](https://nakamasato.medium.com) (English)
-- [Qiita](https://qiita.com/nakamasato) (日本語)
+1. [Medium](https://nakamasato.medium.com) (English)
+1. [Qiita](https://qiita.com/nakamasato) (日本語)
+1. [サービスの安定性を支えるオンコールの裏側](https://engineering.mercari.com/blog/entry/20221109-behind-oncall-for-service-stability/)
 
 ## Slides
 
@@ -73,7 +75,15 @@ I also like learning foreign languages. I've studied several more languages; Kor
 - English
 - 中文
 
+## More
+
+1. [「メルカリ ハロ」を推進するWorkチームにとって、初めてのMVPアワードを開催しました！](https://mercan.mercari.com/articles/41132/)
+1. [受賞者の名言多数！ソウゾウ MVPアワード FY23 Q1を開催しました！](https://mercan.mercari.com/articles/36466/)
+1. [プロジェクトをとにかく進める、そのためにメンバーに認めない“甘え”とは――ビービット 那珂将人氏 (2019/09)](https://hrzine.jp/article/detail/1856)
+1. [正しいプロダクトを納期を守って開発するという当たり前のために重視するただ1つのもの――ビービット 那珂将人氏《前編》](https://hrzine.jp/article/detail/1795)
+1. [TikTokのBytedance、中国本社唯一の日本人エンジニアはなぜビービットへ？ (2019/09)](https://bebit.co.jp/blog/crew/interview_naka/)
+1. [TiKTokのバイトダンス出身の日本人エンジニアに“中国IT急成長”の裏側を聞いてみた (2019/09)](https://type.jp/et/feature/11459/)
+1. [現代の宝の山、ビッグデータに挑む！教育のITイノベーションを巻き起こす](https://www.toshin.com/mirai/job/detail.php?id=6)
 
 [udemy_kubernetes_basics]: https://www.udemy.com/course/kubernetes-basics-2021/?referralCode=30E6E847A97EFBEC8F48
 [udemy_kubernetes_operator_basics]: https://www.udemy.com/course/kubernetes-operator-basics/?referralCode=CD7AF4436ACE9D811113
-
