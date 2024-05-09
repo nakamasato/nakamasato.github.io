@@ -1,6 +1,6 @@
 +++
 title = "About Naka Masato"
-date = "2024-04-27"
+date = "2024-05-10"
 +++
 
 ## Introduction
@@ -22,9 +22,6 @@ date = "2024-04-27"
     1. [memcached-operator](https://github.com/nakamasato/memcached-operator): Simple operator with operator-sdk (go-based)
         1. documentation: [Quickstart for Kubernetes operator](https://nakamasato.github.io/memcached-operator)
     1. [password-operator](https://github.com/nakamasato/password-operator)
-    1. [memcached-operator-with-ansible](https://github.com/nakamasato/memcached-operator-with-ansible): practice operator created with [operator-sdk (ansible-based)](https://sdk.operatorframework.io/docs/building-operators/ansible/quickstart/)
-    1. [nginx-operator](https://github.com/nakamasato/nginx-operator): practice operator created with [operator-sdk (helm-based)](https://sdk.operatorframework.io/docs/building-operators/helm/quickstart/)
-    1. [foo-controller-kubebuilder](https://github.com/nakamasato/foo-controller-kubebuilder): Foo controller with [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
 1. [helm-charts](https://github.com/nakamasato/helm-charts): Helm Chart repository
 
 ### Infrastructure
@@ -33,7 +30,15 @@ date = "2024-04-27"
 - [practice_terraforming](https://github.com/nakamasato/practice_terraforming): Practice repo to understand how terraforming, a tool to import existing infrastructure into Terraform codes, works by creating a ruby gem from scratch and adding extra features that are not included in the official tool. (RubyGem: [practice_terraforming](https://rubygems.org/gems/practice_terraforming))
 - terraform (to be made public): Terraform codes to manage cloud resources for private projects
 
+### Automation
+
+- [slack-gpt](https://github.com/nakamasato/slack-gpt): Slack app to interact with GPT
+- [cloud-run-slack-bot](https://github.com/nakamasato/cloud-run-slack-bot): Slack app to interact with Cloud Run
+- [cloud-run-app-template](https://github.com/nakamasato/cloud-run-app-template): GitHub repository template to quickly set up a Cloud Run service and GitHub Actions with Terraform
+- [cloud-run-terraform-template](https://github.com/nakamasato/cloud-run-terraform-template): WIP
+
 ### Others
+
 1. Self-Study Training Series
     1. [golang-training](https://github.com/nakamasato/golang-training): Studying Golang
     1. [nestjs-graphql-training](https://github.com/nakamasato/nest-graphql-training): Study Nestjs + GraphQL
