@@ -1,6 +1,6 @@
 +++
 title = "About Naka Masato"
-date = "2024-05-10"
+date = "2024-06-12"
 +++
 
 ## Introduction
@@ -57,6 +57,7 @@ date = "2024-05-10"
 1. [Medium](https://nakamasato.medium.com) (English)
 1. [Qiita](https://qiita.com/nakamasato) (日本語)
 1. [サービスの安定性を支えるオンコールの裏側](https://engineering.mercari.com/blog/entry/20221109-behind-oncall-for-service-stability/)
+1. [メルカリ ハロ立ち上げ時のSRE](https://engineering.mercari.com/blog/entry/20240603-mercari-hallo-sre/)
 
 ## Slides
 
