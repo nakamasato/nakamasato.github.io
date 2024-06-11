@@ -1,7 +1,9 @@
-+++
-title = "About Naka Masato"
-date = "2024-06-12"
-+++
+---
+menu: "Main"
+weight: 2
+title: "About Naka Masato"
+date: "2024-06-12"
+---
 
 ## Introduction
 
