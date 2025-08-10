@@ -1,11 +1,13 @@
 ---
-menu: "About Naka Masato"
+menu: "Main"
 weight: 2
+title: "About Naka Masato"
+date: "2024-06-12"
 ---
 
 ## Introduction
 
-I am a software engineer. I started my career as a machine learning engineer in [ByteDance](https://www.bytedance.com/) in 2016, and started working on infrastructure and cloud-native application development when he joined [beBit](https://www.bebit.co.jp/) in 2018. In 2022, I joined [Mercari](https://about.mercari.com/) as an SRE engineer. My interests include scalable system architecture, infrastructure, stream data processing, and machine learning.
+**Naka Masato** is a software engineer. He started his career as a machine learning engineer in [ByteDance](https://www.bytedance.com/) in 2016, and started working on infrastructure and cloud-native application development when he joined [beBit](https://www.bebit.co.jp/) in 2018. In 2022, he joined [Souzoh](https://souzoh.com/) as an SRE engineer. His interests include scalable system architecture, infrastructure, stream data processing, and machine learning.
 
 ## GitHub Projects
 
