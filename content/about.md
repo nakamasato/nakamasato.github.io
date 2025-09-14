@@ -30,8 +30,14 @@ I am a software engineer. I started my career as a machine learning engineer in 
 - [practice_terraforming](https://github.com/nakamasato/practice_terraforming): Practice repo to understand how terraforming, a tool to import existing infrastructure into Terraform codes, works by creating a ruby gem from scratch and adding extra features that are not included in the official tool. (RubyGem: [practice_terraforming](https://rubygems.org/gems/practice_terraforming))
 - terraform (to be made public): Terraform codes to manage cloud resources for private projects
 
+### Application Demo
+
+- [nextjs-stripe-ec](https://github.com/nakamasato/nextjs-stripe-ec): Demo E-commerce app with [Nextjs](https://nextjs.org/) + [Clerk](https://clerk.com/) + [Stripe](https://stripe.com/)
+- [nextjs-saas-demo](https://github.com/nakamasato/nextjs-saas-demo): Demo SaaS app with [Nextjs](https://nextjs.org/) + [Clerk](https://clerk.com/) + [Stripe](https://stripe.com/)
+
 ### Automation
 
+- [github-actions](https://github.com/nakamasato/github-actions): Reusable GitHub Actions
 - [slack-gpt](https://github.com/nakamasato/slack-gpt): Slack app to interact with GPT
 - [cloud-run-slack-bot](https://github.com/nakamasato/cloud-run-slack-bot): Slack app to interact with Cloud Run
 - [cloud-run-app-template](https://github.com/nakamasato/cloud-run-app-template): GitHub repository template to quickly set up a Cloud Run service and GitHub Actions with Terraform
@@ -48,7 +54,7 @@ I am a software engineer. I started my career as a machine learning engineer in 
     1. [python-sample](https://github.com/nakamasato/python-sample): Python sample application with tests
     1. [flask-sample](https://github.com/nakamasato/flask-sample): Flask sample application
     1. [fastapi-sample](https://github.com/nakamasato/fastapi-sample): FastAPI sample application
-    1. [autonote](https://github.com/nakamasato/autonote): Python Library to automate taking notes (WIP)
+    1. [autonote](https://github.com/nakamasato/autonote): Python Library to automate taking notes
 1. [github-actions-practice](https://github.com/nakamasato/github-actions-practice): Example GitHub Actions workflows
 1. [Database Design and Implementation](https://github.com/nakamasato/database-design-and-implementation): SimpleDB implementation (from a book [Database Design and Implementation](https://www.amazon.co.jp/Database-Design-Implementation-Data-Centric-Applications-ebook/dp/B085DZM79S/))
 
